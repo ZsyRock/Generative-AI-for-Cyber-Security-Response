@@ -17,3 +17,4 @@ I'm diving into a dataset packed with network nodes, links, and demands, aiming 
 	year={2007},
 	url={https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/958/file/ZR-07-15.pdf}
 }
+(the link from original website seems expired, you can find the [dataset](https://sndlib.put.poznan.pl/home.action) here)
